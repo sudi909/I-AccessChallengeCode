@@ -1,4 +1,4 @@
-# I-AccessChallengeCode
+# I-Access Challenge Code
 
 I-Access Solution Code Challenge to create a app that can create CSV file with 100K records and 1K bytes string. Have a feature search the data from CSV without using search characters function in .Net lib.
 
